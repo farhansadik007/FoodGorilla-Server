@@ -5,7 +5,7 @@
         "picture": "https://media.licdn.com/dms/image/C4E03AQHrKuDXf77GYA/profile-displayphoto-shrink_800_800/0/1638017700622?e=2147483647&v=beta&t=I-xxf-oDzaXmJwuvWFq374-mdqGQbbZELzv7CyVOvM0",
         "experience": 15,
         "num_recipes": 25,
-        "likes": 12000
+        "likes": 12500
     },
     {
         "id": "2",
@@ -13,7 +13,7 @@
         "picture": "https://i2-prod.edinburghlive.co.uk/incoming/article21454976.ece/ALTERNATES/s1200c/1_Screen-Shot-2021-09-01-at-124449.png",
         "experience": 25,
         "num_recipes": 78,
-        "likes": 45000
+        "likes": 45040
     },
     {
         "id": "3",
@@ -21,7 +21,7 @@
         "picture": "https://www.yourstru.ly/wp-content/uploads/2022/12/2022-12-24_32_nusret-salt-bae-gokce.jpg",
         "experience": 23,
         "num_recipes": 51,
-        "likes": 87000
+        "likes": 87900
     },
     {
         "id": "4",
@@ -29,7 +29,7 @@
         "picture": "https://cdn2.staugustinefoodandwinefestival.com/wp-content/uploads/2022/11/20062258/cat-cora-square-768x768.jpg",
         "experience": 17,
         "num_recipes": 36,
-        "likes": 93000
+        "likes": 93800
     },
     {
         "id": "5",
@@ -45,6 +45,6 @@
         "picture": "https://www.southasiantoday.com.au/images/Resources/bannerimage7812168.webp",
         "experience": 12,
         "num_recipes": 31,
-        "likes": 65000
+        "likes": 65600
     }
 ]
