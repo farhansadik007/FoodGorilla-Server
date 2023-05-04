@@ -31,7 +31,7 @@ app.get('/recipes/:id', (req, res) => {
     res.send(selectedRecipes);
 })
 
-
+//listening to the port
 app.listen(port, ()=> {
     console.log(`FoodGorilla API is on port: ${port}`);
 })
