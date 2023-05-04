@@ -1,0 +1,176 @@
+[
+    {
+        "id": "1",
+        "name": "Jakob Schwarz",
+        "picture": "https://media.licdn.com/dms/image/C4E03AQHrKuDXf77GYA/profile-displayphoto-shrink_800_800/0/1638017700622?e=2147483647&v=beta&t=I-xxf-oDzaXmJwuvWFq374-mdqGQbbZELzv7CyVOvM0",
+        "bio": "Chef at Ten Trinity Square Private Club",
+        "experience": 15,
+        "num_recipes": 25,
+        "likes": 12000,
+        "recipe": [
+            {
+                "name": "Mutton Curry with Potatoes",
+                "ingredients": "Mutton, Potato, Salt, Onion, Red Chilli, Turmeric Powder",
+                "cooking_method": "Cut the meat into small pieces, wash and drain properly. Wash and drain potatoes. Mix with some salt and a pinch of turmeric powder or alternatively saffron powder for color. Now heat oil in a pan. Deep fry the potatoes till brown. Strain the potatoes to remove extra oil and set aside. Now in the same oil add chopped onions, bay leaves, cloves and cook for a minute to make onions tender. No need to fry onions to brown. Add garlic and ginger pastes and stir for a while. Now add cumin powder, red chili powder, cinnamon powder, cardamom powder and some water. Mix and cook well till the spices release oil. Now add meat pieces and mix them properly. No need to add water in this stage since meat releases water. Cook for 5 minutes. When the spices mix gets thick and oil separates, add mace-nutmeg pastes, papaya paste and give a nice mix. Add water and cover with the lid. Cook for 20 minutes. You can add extra water in this stage and cook for extra 5 minutes if the meat is still hard. When water is reduced to half, add turmeric powder and cook for 2 to 3 minutes. Then add water as per your gravy requirement and cook with the lid. While boiling add the potatoes, again close the lid and cook for 15 to 20 minutes. When the gravy is dried to your requirement, turn the heat off and sprinkle some roasted cardamom, cumin and cinnamon powder mix. Serve warm with plain or pulao/pilaf rice, roti, paratha or naan bread.",
+                "rating": "9/10"
+            },
+            {
+                "name": "Chicken Korma",
+                "ingredients": "Chicken, Salt, Onions, Garlic, Ghee, Cinnamon",
+                "cooking_method": "Thinly slice one onion and set aside Roughly chop the other onion, and then puree it in a blender with the garlic and ginger until smooth. Add water if necessary. Combine the puree, chicken, yogurt, cardamom, cinnamon, peppercorns, and bay leaves in a covered Dutch oven and simmer over medium-high heat,   stirring occasionally for 10-15 minutes. Uncover and bring the pot to a low simmer. Cook until chicken is tender. Flip occasionally. 20-35 minutes. Add in the sliced chilis and sugar and stir. Adjust the thickness of the gravy by adding water or cooking it down. Heat the ghee and the thinly sliced onions in a pan over medium heat until they are a rich brown. 5-7 minutes. Season the onions with a pinch of salt and stir it into the korma.",
+                "rating": "8/10"
+            },
+            {
+                "name": "Chicken Pakora",
+                "ingredients": "boneless chicken breasts, ginger paste, garlic paste, garam masala powder, salt, lime juice, flour, Oil",
+                "cooking_method": "Marinate the chicken with ginger, garlic, garam masala and lime juice. Keep aside for 2 hours. Add the salt, green chilli, cilantro and onions (if desired) and mix. Add gram flour and mix well. Divide into balls. Heat oil and deep fry on medium heat. (I usually prick the balls with a fork during frying to ensure that the pakora is evenly cooked on the inside as well.) The color should be a light golden brown. Serve hot.",
+                "rating": "7/10"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Gordon Ramsay",
+        "picture": "https://i2-prod.edinburghlive.co.uk/incoming/article21454976.ece/ALTERNATES/s1200c/1_Screen-Shot-2021-09-01-at-124449.png",
+        "bio": "Gordon James Ramsay OBE is a British celebrity chef, restaurateur, television personality and writer",
+        "experience": 25,
+        "num_recipes": 78,
+        "likes": 45000,
+        "recipe": [
+            {
+                "name": "Mutton Curry with Potatoes",
+                "ingredients": "Mutton, Potato, Salt, Onion, Red Chilli, Turmeric Powder",
+                "cooking_method": "Cut the meat into small pieces, wash and drain properly. Wash and drain potatoes. Mix with some salt and a pinch of turmeric powder or alternatively saffron powder for color. Now heat oil in a pan. Deep fry the potatoes till brown. Strain the potatoes to remove extra oil and set aside. Now in the same oil add chopped onions, bay leaves, cloves and cook for a minute to make onions tender. No need to fry onions to brown. Add garlic and ginger pastes and stir for a while. Now add cumin powder, red chili powder, cinnamon powder, cardamom powder and some water. Mix and cook well till the spices release oil. Now add meat pieces and mix them properly. No need to add water in this stage since meat releases water. Cook for 5 minutes. When the spices mix gets thick and oil separates, add mace-nutmeg pastes, papaya paste and give a nice mix. Add water and cover with the lid. Cook for 20 minutes. You can add extra water in this stage and cook for extra 5 minutes if the meat is still hard. When water is reduced to half, add turmeric powder and cook for 2 to 3 minutes. Then add water as per your gravy requirement and cook with the lid. While boiling add the potatoes, again close the lid and cook for 15 to 20 minutes. When the gravy is dried to your requirement, turn the heat off and sprinkle some roasted cardamom, cumin and cinnamon powder mix. Serve warm with plain or pulao/pilaf rice, roti, paratha or naan bread.",
+                "rating": "9/10"
+            },
+            {
+                "name": "Chicken Korma",
+                "ingredients": "Chicken, Salt, Onions, Garlic, Ghee, Cinnamon",
+                "cooking_method": "Thinly slice one onion and set aside Roughly chop the other onion, and then puree it in a blender with the garlic and ginger until smooth. Add water if necessary. Combine the puree, chicken, yogurt, cardamom, cinnamon, peppercorns, and bay leaves in a covered Dutch oven and simmer over medium-high heat,   stirring occasionally for 10-15 minutes. Uncover and bring the pot to a low simmer. Cook until chicken is tender. Flip occasionally. 20-35 minutes. Add in the sliced chilis and sugar and stir. Adjust the thickness of the gravy by adding water or cooking it down. Heat the ghee and the thinly sliced onions in a pan over medium heat until they are a rich brown. 5-7 minutes. Season the onions with a pinch of salt and stir it into the korma.",
+                "rating": "8/10"
+            },
+            {
+                "name": "Chicken Pakora",
+                "ingredients": "boneless chicken breasts, ginger paste, garlic paste, garam masala powder, salt, lime juice, flour, Oil",
+                "cooking_method": "Marinate the chicken with ginger, garlic, garam masala and lime juice. Keep aside for 2 hours. Add the salt, green chilli, cilantro and onions (if desired) and mix. Add gram flour and mix well. Divide into balls. Heat oil and deep fry on medium heat. (I usually prick the balls with a fork during frying to ensure that the pakora is evenly cooked on the inside as well.) The color should be a light golden brown. Serve hot.",
+                "rating": "7/10"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Salt Bae",
+        "picture": "https://www.yourstru.ly/wp-content/uploads/2022/12/2022-12-24_32_nusret-salt-bae-gokce.jpg",
+        "bio": "Salt Bae, is a Turkish butcher, chef, food entertainer and restaurateur",
+        "experience": 23,
+        "num_recipes": 51,
+        "likes": 87000,
+        "recipe": [
+            {
+                "name": "Mutton Curry with Potatoes",
+                "ingredients": "Mutton, Potato, Salt, Onion, Red Chilli, Turmeric Powder",
+                "cooking_method": "Cut the meat into small pieces, wash and drain properly. Wash and drain potatoes. Mix with some salt and a pinch of turmeric powder or alternatively saffron powder for color. Now heat oil in a pan. Deep fry the potatoes till brown. Strain the potatoes to remove extra oil and set aside. Now in the same oil add chopped onions, bay leaves, cloves and cook for a minute to make onions tender. No need to fry onions to brown. Add garlic and ginger pastes and stir for a while. Now add cumin powder, red chili powder, cinnamon powder, cardamom powder and some water. Mix and cook well till the spices release oil. Now add meat pieces and mix them properly. No need to add water in this stage since meat releases water. Cook for 5 minutes. When the spices mix gets thick and oil separates, add mace-nutmeg pastes, papaya paste and give a nice mix. Add water and cover with the lid. Cook for 20 minutes. You can add extra water in this stage and cook for extra 5 minutes if the meat is still hard. When water is reduced to half, add turmeric powder and cook for 2 to 3 minutes. Then add water as per your gravy requirement and cook with the lid. While boiling add the potatoes, again close the lid and cook for 15 to 20 minutes. When the gravy is dried to your requirement, turn the heat off and sprinkle some roasted cardamom, cumin and cinnamon powder mix. Serve warm with plain or pulao/pilaf rice, roti, paratha or naan bread.",
+                "rating": "9/10"
+            },
+            {
+                "name": "Chicken Korma",
+                "ingredients": "Chicken, Salt, Onions, Garlic, Ghee, Cinnamon",
+                "cooking_method": "Thinly slice one onion and set aside Roughly chop the other onion, and then puree it in a blender with the garlic and ginger until smooth. Add water if necessary. Combine the puree, chicken, yogurt, cardamom, cinnamon, peppercorns, and bay leaves in a covered Dutch oven and simmer over medium-high heat,   stirring occasionally for 10-15 minutes. Uncover and bring the pot to a low simmer. Cook until chicken is tender. Flip occasionally. 20-35 minutes. Add in the sliced chilis and sugar and stir. Adjust the thickness of the gravy by adding water or cooking it down. Heat the ghee and the thinly sliced onions in a pan over medium heat until they are a rich brown. 5-7 minutes. Season the onions with a pinch of salt and stir it into the korma.",
+                "rating": "8/10"
+            },
+            {
+                "name": "Chicken Pakora",
+                "ingredients": "boneless chicken breasts, ginger paste, garlic paste, garam masala powder, salt, lime juice, flour, Oil",
+                "cooking_method": "Marinate the chicken with ginger, garlic, garam masala and lime juice. Keep aside for 2 hours. Add the salt, green chilli, cilantro and onions (if desired) and mix. Add gram flour and mix well. Divide into balls. Heat oil and deep fry on medium heat. (I usually prick the balls with a fork during frying to ensure that the pakora is evenly cooked on the inside as well.) The color should be a light golden brown. Serve hot.",
+                "rating": "7/10"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Cat Cora",
+        "picture": "https://cdn2.staugustinefoodandwinefestival.com/wp-content/uploads/2022/11/20062258/cat-cora-square-768x768.jpg",
+        "bio": "Catherine Ann Cora is an American professional chef, television personality, business person, and cookbook author",
+        "experience": 17,
+        "num_recipes": 36,
+        "likes": 93000,
+        "recipe": [
+            {
+                "name": "Mutton Curry with Potatoes",
+                "ingredients": "Mutton, Potato, Salt, Onion, Red Chilli, Turmeric Powder",
+                "cooking_method": "Cut the meat into small pieces, wash and drain properly. Wash and drain potatoes. Mix with some salt and a pinch of turmeric powder or alternatively saffron powder for color. Now heat oil in a pan. Deep fry the potatoes till brown. Strain the potatoes to remove extra oil and set aside. Now in the same oil add chopped onions, bay leaves, cloves and cook for a minute to make onions tender. No need to fry onions to brown. Add garlic and ginger pastes and stir for a while. Now add cumin powder, red chili powder, cinnamon powder, cardamom powder and some water. Mix and cook well till the spices release oil. Now add meat pieces and mix them properly. No need to add water in this stage since meat releases water. Cook for 5 minutes. When the spices mix gets thick and oil separates, add mace-nutmeg pastes, papaya paste and give a nice mix. Add water and cover with the lid. Cook for 20 minutes. You can add extra water in this stage and cook for extra 5 minutes if the meat is still hard. When water is reduced to half, add turmeric powder and cook for 2 to 3 minutes. Then add water as per your gravy requirement and cook with the lid. While boiling add the potatoes, again close the lid and cook for 15 to 20 minutes. When the gravy is dried to your requirement, turn the heat off and sprinkle some roasted cardamom, cumin and cinnamon powder mix. Serve warm with plain or pulao/pilaf rice, roti, paratha or naan bread.",
+                "rating": "9/10"
+            },
+            {
+                "name": "Chicken Korma",
+                "ingredients": "Chicken, Salt, Onions, Garlic, Ghee, Cinnamon",
+                "cooking_method": "Thinly slice one onion and set aside Roughly chop the other onion, and then puree it in a blender with the garlic and ginger until smooth. Add water if necessary. Combine the puree, chicken, yogurt, cardamom, cinnamon, peppercorns, and bay leaves in a covered Dutch oven and simmer over medium-high heat,   stirring occasionally for 10-15 minutes. Uncover and bring the pot to a low simmer. Cook until chicken is tender. Flip occasionally. 20-35 minutes. Add in the sliced chilis and sugar and stir. Adjust the thickness of the gravy by adding water or cooking it down. Heat the ghee and the thinly sliced onions in a pan over medium heat until they are a rich brown. 5-7 minutes. Season the onions with a pinch of salt and stir it into the korma.",
+                "rating": "8/10"
+            },
+            {
+                "name": "Chicken Pakora",
+                "ingredients": "boneless chicken breasts, ginger paste, garlic paste, garam masala powder, salt, lime juice, flour, Oil",
+                "cooking_method": "Marinate the chicken with ginger, garlic, garam masala and lime juice. Keep aside for 2 hours. Add the salt, green chilli, cilantro and onions (if desired) and mix. Add gram flour and mix well. Divide into balls. Heat oil and deep fry on medium heat. (I usually prick the balls with a fork during frying to ensure that the pakora is evenly cooked on the inside as well.) The color should be a light golden brown. Serve hot.",
+                "rating": "7/10"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "name": "CZN Burak",
+        "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-p8OE4EhP3AoPXLZjTa2NBqRpPznQocF1mryqUz-Mm87teHmE",
+        "bio": "Burak Özdemir, known as CZN Burak, is a Turkish chef and restaurateur CZN, Özdemir's nickname, originates from a frequent mispronunciation of the Cinzano, the name of his father's textile shop in Laleli.",
+        "experience": 26,
+        "num_recipes": 103,
+        "likes": 153000,
+        "recipe": [
+            {
+                "name": "Mutton Curry with Potatoes",
+                "ingredients": "Mutton, Potato, Salt, Onion, Red Chilli, Turmeric Powder",
+                "cooking_method": "Cut the meat into small pieces, wash and drain properly. Wash and drain potatoes. Mix with some salt and a pinch of turmeric powder or alternatively saffron powder for color. Now heat oil in a pan. Deep fry the potatoes till brown. Strain the potatoes to remove extra oil and set aside. Now in the same oil add chopped onions, bay leaves, cloves and cook for a minute to make onions tender. No need to fry onions to brown. Add garlic and ginger pastes and stir for a while. Now add cumin powder, red chili powder, cinnamon powder, cardamom powder and some water. Mix and cook well till the spices release oil. Now add meat pieces and mix them properly. No need to add water in this stage since meat releases water. Cook for 5 minutes. When the spices mix gets thick and oil separates, add mace-nutmeg pastes, papaya paste and give a nice mix. Add water and cover with the lid. Cook for 20 minutes. You can add extra water in this stage and cook for extra 5 minutes if the meat is still hard. When water is reduced to half, add turmeric powder and cook for 2 to 3 minutes. Then add water as per your gravy requirement and cook with the lid. While boiling add the potatoes, again close the lid and cook for 15 to 20 minutes. When the gravy is dried to your requirement, turn the heat off and sprinkle some roasted cardamom, cumin and cinnamon powder mix. Serve warm with plain or pulao/pilaf rice, roti, paratha or naan bread.",
+                "rating": "9/10"
+            },
+            {
+                "name": "Chicken Korma",
+                "ingredients": "Chicken, Salt, Onions, Garlic, Ghee, Cinnamon",
+                "cooking_method": "Thinly slice one onion and set aside Roughly chop the other onion, and then puree it in a blender with the garlic and ginger until smooth. Add water if necessary. Combine the puree, chicken, yogurt, cardamom, cinnamon, peppercorns, and bay leaves in a covered Dutch oven and simmer over medium-high heat,   stirring occasionally for 10-15 minutes. Uncover and bring the pot to a low simmer. Cook until chicken is tender. Flip occasionally. 20-35 minutes. Add in the sliced chilis and sugar and stir. Adjust the thickness of the gravy by adding water or cooking it down. Heat the ghee and the thinly sliced onions in a pan over medium heat until they are a rich brown. 5-7 minutes. Season the onions with a pinch of salt and stir it into the korma.",
+                "rating": "8/10"
+            },
+            {
+                "name": "Chicken Pakora",
+                "ingredients": "boneless chicken breasts, ginger paste, garlic paste, garam masala powder, salt, lime juice, flour, Oil",
+                "cooking_method": "Marinate the chicken with ginger, garlic, garam masala and lime juice. Keep aside for 2 hours. Add the salt, green chilli, cilantro and onions (if desired) and mix. Add gram flour and mix well. Divide into balls. Heat oil and deep fry on medium heat. (I usually prick the balls with a fork during frying to ensure that the pakora is evenly cooked on the inside as well.) The color should be a light golden brown. Serve hot.",
+                "rating": "7/10"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Kishwar Chowdhury",
+        "picture": "https://www.southasiantoday.com.au/images/Resources/bannerimage7812168.webp",
+        "bio": "Kishwar Chowdhury (Masterchef) is a competitor in the Season 13 of MasterChef Australia",
+        "experience": 12,
+        "num_recipes": 31,
+        "likes": 65000,
+        "recipe": [
+            {
+                "name": "Mutton Curry with Potatoes",
+                "ingredients": "Mutton, Potato, Salt, Onion, Red Chilli, Turmeric Powder",
+                "cooking_method": "Cut the meat into small pieces, wash and drain properly. Wash and drain potatoes. Mix with some salt and a pinch of turmeric powder or alternatively saffron powder for color. Now heat oil in a pan. Deep fry the potatoes till brown. Strain the potatoes to remove extra oil and set aside. Now in the same oil add chopped onions, bay leaves, cloves and cook for a minute to make onions tender. No need to fry onions to brown. Add garlic and ginger pastes and stir for a while. Now add cumin powder, red chili powder, cinnamon powder, cardamom powder and some water. Mix and cook well till the spices release oil. Now add meat pieces and mix them properly. No need to add water in this stage since meat releases water. Cook for 5 minutes. When the spices mix gets thick and oil separates, add mace-nutmeg pastes, papaya paste and give a nice mix. Add water and cover with the lid. Cook for 20 minutes. You can add extra water in this stage and cook for extra 5 minutes if the meat is still hard. When water is reduced to half, add turmeric powder and cook for 2 to 3 minutes. Then add water as per your gravy requirement and cook with the lid. While boiling add the potatoes, again close the lid and cook for 15 to 20 minutes. When the gravy is dried to your requirement, turn the heat off and sprinkle some roasted cardamom, cumin and cinnamon powder mix. Serve warm with plain or pulao/pilaf rice, roti, paratha or naan bread.",
+                "rating": "9/10"
+            },
+            {
+                "name": "Chicken Korma",
+                "ingredients": "Chicken, Salt, Onions, Garlic, Ghee, Cinnamon",
+                "cooking_method": "Thinly slice one onion and set aside Roughly chop the other onion, and then puree it in a blender with the garlic and ginger until smooth. Add water if necessary. Combine the puree, chicken, yogurt, cardamom, cinnamon, peppercorns, and bay leaves in a covered Dutch oven and simmer over medium-high heat,   stirring occasionally for 10-15 minutes. Uncover and bring the pot to a low simmer. Cook until chicken is tender. Flip occasionally. 20-35 minutes. Add in the sliced chilis and sugar and stir. Adjust the thickness of the gravy by adding water or cooking it down. Heat the ghee and the thinly sliced onions in a pan over medium heat until they are a rich brown. 5-7 minutes. Season the onions with a pinch of salt and stir it into the korma.",
+                "rating": "8/10"
+            },
+            {
+                "name": "Chicken Pakora",
+                "ingredients": "boneless chicken breasts, ginger paste, garlic paste, garam masala powder, salt, lime juice, flour, Oil",
+                "cooking_method": "Marinate the chicken with ginger, garlic, garam masala and lime juice. Keep aside for 2 hours. Add the salt, green chilli, cilantro and onions (if desired) and mix. Add gram flour and mix well. Divide into balls. Heat oil and deep fry on medium heat. (I usually prick the balls with a fork during frying to ensure that the pakora is evenly cooked on the inside as well.) The color should be a light golden brown. Serve hot.",
+                "rating": "7/10"
+            }
+        ]
+    }
+]
